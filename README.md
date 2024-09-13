@@ -4,6 +4,7 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
+![img](./Interface.png)
 ## 📕 Descrição
 
 Este é um **Gerador de Senhas Seguras** desenvolvido em Python utilizando a biblioteca **CustomTkinter** para a interface gráfica. A aplicação permite ao usuário gerar senhas aleatórias e seguras com caracteres especiais, números e letras maiúsculas/minúsculas, conforme o tamanho desejado.
